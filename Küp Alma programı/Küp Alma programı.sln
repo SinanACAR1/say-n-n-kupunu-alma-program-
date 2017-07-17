@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Küp Alma programı", "Küp Alma programı\Küp Alma programı.csproj", "{C6526DBE-E5C7-4137-867B-D3464D43D77A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6526DBE-E5C7-4137-867B-D3464D43D77A}.Debug|x86.ActiveCfg = Debug|x86
+		{C6526DBE-E5C7-4137-867B-D3464D43D77A}.Debug|x86.Build.0 = Debug|x86
+		{C6526DBE-E5C7-4137-867B-D3464D43D77A}.Release|x86.ActiveCfg = Release|x86
+		{C6526DBE-E5C7-4137-867B-D3464D43D77A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

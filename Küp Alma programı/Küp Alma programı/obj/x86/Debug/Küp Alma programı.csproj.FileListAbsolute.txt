@@ -1,0 +1,16 @@
+C:\Users\ibrahim\AppData\Local\Temporary Projects\Küp Alma programı\bin\Debug\Küp Alma programı.exe
+C:\Users\ibrahim\AppData\Local\Temporary Projects\Küp Alma programı\bin\Debug\Küp Alma programı.pdb
+C:\Users\ibrahim\AppData\Local\Temporary Projects\Küp Alma programı\obj\x86\Debug\Küp_Alma_programı.Form1.resources
+C:\Users\ibrahim\AppData\Local\Temporary Projects\Küp Alma programı\obj\x86\Debug\Küp_Alma_programı.Properties.Resources.resources
+C:\Users\ibrahim\AppData\Local\Temporary Projects\Küp Alma programı\obj\x86\Debug\Küp Alma programı.csproj.GenerateResource.Cache
+C:\Users\ibrahim\AppData\Local\Temporary Projects\Küp Alma programı\obj\x86\Debug\Küp Alma programı.exe
+C:\Users\ibrahim\AppData\Local\Temporary Projects\Küp Alma programı\obj\x86\Debug\Küp Alma programı.pdb
+C:\Users\ibrahim\documents\visual studio 2010\Projects\Küp Alma programı\Küp Alma programı\obj\x86\Debug\Küp Alma programı.exe
+C:\Users\ibrahim\documents\visual studio 2010\Projects\Küp Alma programı\Küp Alma programı\obj\x86\Debug\Küp Alma programı.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Küp Alma programı\Küp Alma programı\obj\x86\Debug\Küp Alma programı.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Küp Alma programı\Küp Alma programı\obj\x86\Debug\Küp Alma programı.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Küp Alma programı\Küp Alma programı\bin\Debug\Küp Alma programı.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Küp Alma programı\Küp Alma programı\bin\Debug\Küp Alma programı.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Küp Alma programı\Küp Alma programı\obj\x86\Debug\Küp_Alma_programı.Form1.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Küp Alma programı\Küp Alma programı\obj\x86\Debug\Küp_Alma_programı.Properties.Resources.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Küp Alma programı\Küp Alma programı\obj\x86\Debug\Küp Alma programı.csproj.GenerateResource.Cache
